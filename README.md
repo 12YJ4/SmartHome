@@ -25,5 +25,17 @@ SmartHome/
 - 下位机通信协议见 `STM32_LowerComputer/Src/bsp_esp8266.c`（JSON，UDP 20000 端口）
 
 ## 演示截图
+<img width="1280" height="566" alt="qq_pic_merged_1793791055185" src="https://github.com/user-attachments/assets/43b5354f-6769-4ecf-af3b-1f1f7bd51000" />
+图1 显示温湿度
+<img width="848" height="614" alt="qq_pic_merged_1793791090609" src="https://github.com/user-attachments/assets/074cf04a-7483-4b53-9bad-b6c2f42e4e4b" />
+图2 录入人员信息
+<img width="1280" height="455" alt="qq_pic_merged_1793791116494" src="https://github.com/user-attachments/assets/4cce1862-55cf-4c03-84b0-afd14b8ca707" />
+图3 防止外卖员/快递员误报
+<img width="1078" height="562" alt="qq_pic_merged_1793791149455" src="https://github.com/user-attachments/assets/2383e0dc-aa06-419c-bc3a-db7af20ccf0f" />
+图4 远程联调
+<img width="1280" height="427" alt="Cache_-229d0293c5cb5f5f" src="https://github.com/user-attachments/assets/6129af43-dea4-41e4-b3cc-358cd4d68d0c" />
+图5 数据持久化
 
-（在此处贴上前端界面、报警弹窗、日志、数据库等截图）
+
+
+
