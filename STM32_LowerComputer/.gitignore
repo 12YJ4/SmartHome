@@ -1,0 +1,14 @@
+# Keil MDK 构建产物
+MDK-ARM/STM32G030/
+MDK-ARM/bin/
+MDK-ARM/DebugConfig/
+MDK-ARM/RTE/
+MDK-ARM/*.uvguix.*
+MDK-ARM/*.lst
+MDK-ARM/*.map
+MDK-ARM/*.axf
+MDK-ARM/*.hex
+MDK-ARM/*.bin
+MDK-ARM/*.htm
+MDK-ARM/*.build_log.htm
+MDK-ARM/JLinkLog.txt

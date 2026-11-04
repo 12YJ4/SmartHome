@@ -1,0 +1,13 @@
+# Qt Creator
+*.pro.user
+*.pro.user.*
+
+# 构建目录
+build-*/
+Debug/
+Release/
+
+# 运行时生成（人脸模型/数据库/抓拍）
+face.xml
+smarthome.db
+snapshots/
